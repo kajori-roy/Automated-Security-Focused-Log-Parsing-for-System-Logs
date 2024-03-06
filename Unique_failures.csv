@@ -1,0 +1,38 @@
+level_0,index,EventId,Content,PID,Occurences,Lemmatized Content,Tag
+0,118,jibwlpjk,check pass; user unknown,19937.0,117,check pass ; user unknown,Failure
+117,877,xhqurzab,ALERT exited abnormally with [1],,51,ALERT exit abnormally with [ 1 ],Failure
+160,1879,9gntum0a,Kerberos authentication failed,19277.0,23,kerberos authentication fail,Failure
+183,1896,0nozhngj,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort,19280.0,15,authentication fail from 163.27.187.39 ( 163.27.187.39 ): Software cause connection abort,Failure
+198,1856,pwrxb81t,Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code,19272.0,8,authentication fail from 163.27.187.39 ( 163.27.187.39 ): permission deny in replay cache code,Failure
+206,1813,4ibqxqhw,User unknown timed out after 900 seconds at Sat Jun 18 02:23:10 2005,31277.0,1,User unknown time out after 900 second at Sat Jun 18 02:23:10 2005,Failure
+207,1987,dui8wqje,"There is already a security framework initialized, register_security failed.",,1,"there be already a security framework initialize , register_security fail .",Failure
+208,1936,jxnqludc,warning: can't get client address: Connection reset by peer,26482.0,2,warning : can not get client address : connection reset by peer,Warning
+211,1300,x2apizha,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:19 2005,24088.0,909,connection from 206.196.21.129 ( host129.206.196.21.maximumasp.com ) at Sat Jul   9 22:53:19 2005,Info
+1120,607,4tzyd9yj,session opened for user cyrus by (uid=0),21416.0,123,session open for user cyrus by ( uid=0 ),Info
+1153,734,bhnakf64,session closed for user cyrus,27953.0,123,session close for user cyrus,Info
+1373,1838,ikus4iox,mtrr: v2.0 (20020519),,31,mtrr : v2.0 ( 20020519 ),Info
+1404,1928,bheye36h,notify question section contains no SOA,2306.0,16,notify question section contain no SOA,Info
+1405,1954,gxajmmwq,BIOS-e820: 0000000000000000 - 00000000000a0000 (usable),,16,BIOS - e820 : 0000000000000000 - 00000000000a0000 ( usable ),Info
+1436,1941,dizeeefm,BIOS-provided physical RAM map:,,13,bios - provide physical ram map :,Info
+1449,1849,tlk5s0sn,restart.,,10,restart .,Info
+1459,1970,wr3vxqnn,"DMA zone: 4096 pages, LIFO batch:1",,8,"DMA zone : 4096 page , LIFO batch:1",Info
+1460,1905,3og8glho,removing device node '/udev/vcsa2',12754.0,8,remove device node ' /udev / vcsa2 ',Info
+1474,1983,rzugubyv,Linux Plug and Play Support v0.97 (c) Adam Belay,,7,Linux Plug and play Support v0.97 ( c ) Adam Belay,Info
+1481,1992,d9feggxc,Enabling unmasked SIMD FPU exception support... done.,,4,enable unmasked SIMD FPU exception support ... do .,Info
+1485,1932,kolj7knk,getpeername (ftpd): Transport endpoint is not connected,26463.0,4,getpeername ( ftpd ): Transport endpoint be not connect,Info
+1489,1995,0rhcoanu,pci_hotplug: PCI Hot Plug PCI Core version: 0.5,,2,pci_hotplug : pci Hot Plug pci core version : 0.5,Info
+1491,1998,nbdts75g,isapnp: No Plug & Play device found,,2,isapnp : No Plug & play device find,Info
+1492,1938,pjmc9vvs,"klogd 1.4.1, log source = /proc/kmsg started.",,2,"klogd 1.4.1 , log source = /proc / kmsg start .",Info
+1494,1915,i23vq9it,"ANONYMOUS FTP LOGIN FROM 84.102.20.2,  (anonymous)",16782.0,2,"ANONYMOUS FTP LOGIN from 84.102.20.2 ,   ( anonymous )",Info
+1497,1978,2iknirtx,ACPI disabled because your bios is from 2000 and too old,,1,ACPI disable because your bio be from 2000 and too old,Info
+1498,1940,o0t9dzxk,Linux version 2.6.5-1.358 (bhcompile@bugs.build.redhat.com) (gcc version 3.3.3 20040412 (Red Hat Linux 3.3.3-7)) #1 Sat May 8 09:04:50 EDT 2004,,1,Linux version 2.6.5 - 1.358 ( bhcompile@bugs.build.redhat.com ) ( gcc version 3.3.3 20040412 ( Red Hat Linux 3.3.3 - 7 ) ) # 1 Sat May 8 09:04:50 EDT 2004,Info
+1499,1986,ko8nqyox,"Memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, 0k highmem)",,1,"memory : 125312k/129720k available ( 1540k kernel code , 3860k reserve , 599k datum , 144k init , 0k highmem )",Info
+1500,1988,zjwx2m5w,"Dentry cache hash table entries: 16384 (order: 4, 65536 bytes)",,1,"dentry cache hash table entry : 16384 ( order : 4 , 65536 byte )",Info
+1501,1913,6zwixv05,Couldn't authenticate user,2803.0,1,could not authenticate user,Info
+1502,1904,fvsuzhvk,ROOT LOGIN ON tty2,2421.0,1,ROOT LOGIN ON tty2,Info
+1503,1993,6amscius,"PCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1",,1,"pci : pci bios revision 2.10 entry at 0xfc0ce , last bus=1",Info
+1504,1903,imo2cqng,imps2: Auto-detected intellimouse PS/2,2094.0,1,imps2 : auto - detect intellimouse ps/2,Info
+1505,1902,12iaoud6,*** info [mice.c(1766)]:,2094.0,1,* * * info [ mice.c(1766 ) ] :,Info
+1506,1996,ghgg1lti,apm: BIOS version 1.2 Flags 0x03 (Driver version 1.16ac),,1,apm : BIOS version 1.2 Flags 0x03 ( Driver version 1.16ac ),Info
+1507,1997,ucbk2vlr,Setting network parameters:  succeeded,,1,set network parameter :   succeed,Info
+1508,1855,iniknam6,Received SNMP packet(s) from 67.170.148.126,2318.0,1,receive SNMP packet(s ) from 67.170.148.126,Info
